@@ -2,7 +2,7 @@
 
 #### Helping businesses turn complex requirements and legacy systems into scalable, intelligent, and future-ready solutions.
 
-PPRD Systems LLC combines established and emerging technologies with cross-industry expertise to enable businesses to overcome complex requirements and challenges, adapt to change, seize opportunities for growth, and achieving success today while building the foundation that shapes the future. 
+PPRD Systems LLC combines established and emerging technologies with cross-industry expertise to enable businesses overcome complex requirements and challenges, adapt to change, seize opportunities for growth, and achieving success today while building the foundation that shapes the future. 
 
 ### What we do:
 
