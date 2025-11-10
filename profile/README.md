@@ -35,6 +35,7 @@ PPRD Systems LLC combines established and emerging technologies with cross-indus
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" alt="Spring" width="40"/>
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
@@ -52,6 +53,12 @@ PPRD Systems LLC combines established and emerging technologies with cross-indus
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
 </p>
 
-Technology icons by <a href="https://github.com/devicons/devicon" target="_blank">Devicon</a>. Logos are trademarks of their respective owners.
+# Acknowledgements
 
+Technology icons by <a href="https://github.com/devicons/devicon" target="_blank">Devicon</a>  
+Logos are trademarks of their respective owners.
 
+## Learn More
+
+- Website: WIP
+- Contact: contact@pprdsystems.com
