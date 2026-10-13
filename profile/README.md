@@ -1,8 +1,6 @@
-# PPRD Systems, LLC
-
 #### Helping businesses turn complex requirements and legacy systems into scalable, intelligent, and future-ready solutions.
 
-PPRD Systems LLC combines established and emerging technologies with cross-industry expertise to enable businesses overcome complex requirements and challenges, adapt to change, seize opportunities for growth, and achieving success today while building the foundation that shapes the future. 
+Combines established and emerging technologies with cross-industry expertise to enable businesses overcome complex requirements and challenges, adapt to change, seize opportunities for growth, and achieving success today while building the foundation that shapes the future. 
 
 ### What we do:
 
@@ -19,8 +17,6 @@ PPRD Systems LLC combines established and emerging technologies with cross-indus
 - Finance: Treasury management, hedge accounting, and risk management.
 - Media: Trade screening and adverse news.
 
-### PPRD Systems - Industrial Platform
-  <a href="http://www.elbahja.com.s3-website.us-east-2.amazonaws.com" target="_blank"><img src="../images/pprd-systems-platform-2025-12-10.png" alt="pprd-systems-industrial-platform" /></a>
 ### Tech Stack
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
