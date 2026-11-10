@@ -52,8 +52,3 @@ Combines established and emerging technologies with cross-industry expertise to 
 
 Technology icons by <a href="https://github.com/devicons/devicon" target="_blank">Devicon</a>  
 Logos are trademarks of their respective owners.
-
-## Learn More
-
-- Website: WIP
-- Contact: contact@pprdsystems.com
