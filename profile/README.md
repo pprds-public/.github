@@ -2,8 +2,6 @@
 
 Combines established and emerging technologies with cross-industry expertise to enable businesses overcome complex requirements and challenges, adapt to change, seize opportunities for growth, and achieving success today while building the foundation that shapes the future. 
 
-### What we do:
-
 - Transform complex requirements and challenges into flexible, maintainable, and scalable distributed architectures that scale with your business without costly changes or rewrites.
 - Unify data sources to eliminate silos by modeling and aggregating data for fast analytics and actionable insights.
 - Provide plug-and-play integrations that seamlessly connect new platforms, APIs, or data sources with minimal effort and cost.
